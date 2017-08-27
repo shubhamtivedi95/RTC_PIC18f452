@@ -1,0 +1,3 @@
+void delay(unsigned int x)   
+	Function to provide time delay in miliseconds
+	here x=number of miliseconds 
